@@ -4,7 +4,7 @@
     "description": "tools for vscode to develop mini app like dsl",
     "publisher": "tobye",
     "repository": {},
-    "version": "0.0.2",
+    "version": "0.0.1",
     "engines": {
         "vscode": "0.10.x"
     },
@@ -48,7 +48,7 @@
                 }
             },
             {
-                "language": "mini-like",
+                "language": "mike",
                 "scopeName": "text.html.derivative",
                 "path": "./syntaxes/mike-derivative.tmLanguage.json",
                 "embeddedLanguages": {
