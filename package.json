@@ -65,9 +65,10 @@
         ]
     },
     "scripts": {
-      "pack": "vsce package"
+        "pack": "vsce package"
     },
-    "dependencies": {
+    "dependencies": {},
+    "devDependencies": {
         "vsce": "^2.7.0"
     }
 }
